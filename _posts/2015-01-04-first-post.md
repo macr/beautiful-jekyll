@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post!
-image: /img/hello_world.jpeg
+#image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+I'm just checking out this Jekyll Posts stuff. Don't mind me yet.
